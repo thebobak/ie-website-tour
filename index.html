@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Catalog - Inquired</title>
+    <style>
+        /* Reset margins and ensure the background seamlessly blends */
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #ffffff; /* Change this if the site has a colored background */
+            text-align: center;
+        }
+
+        /* Make the image span the full width of the browser */
+        .mockup-image {
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+            /* Optional: limits the maximum width so it doesn't get ridiculously large on ultrawide monitors */
+            max-width: 1920px; 
+        }
+
+        /* A helpful placeholder state in case the image hasn't loaded or isn't in the folder yet */
+        .setup-placeholder {
+            display: none;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin-top: 15vh;
+            color: #4a5568;
+        }
+
+        .setup-placeholder h2 {
+            font-weight: 600;
+        }
+        
+        code {
+            background: #edf2f7;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 
+      Replace "homepage-screenshot.png" with the actual image file of the Inquired catalog.
+      Make sure the image is in the same folder as this HTML file on your server.
+    -->
+    <img 
+        src="homepage-screenshot.png" 
+        class="mockup-image" 
+        alt="Inquired Student Catalog Demo"
+        onerror="showPlaceholder(this);"
+    >
+
+    <!-- This only shows if the image is missing -->
+    <div id="placeholder" class="setup-placeholder">
+        <h2>Demo Setup Instructions</h2>
+        <p>Your HTML wrapper is ready!</p>
+        <p>To complete the setup, save your screenshot as <code>homepage-screenshot.png</code> in the same folder as this file.</p>
+    </div>
+
+    <script>
+        // Simple fallback script to show instructions if the image isn't found
+        function showPlaceholder(imgElement) {
+            imgElement.style.display = 'none';
+            document.getElementById('placeholder').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
