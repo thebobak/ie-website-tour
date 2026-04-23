@@ -1,4 +1,3 @@
-<script>
         /**
          * Website Redesign Tour App
          * This self-contained script handles styling, logic, and DOM injection.
@@ -355,4 +354,3 @@
                 init();
             }
         })();
-    </script>
