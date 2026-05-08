@@ -32,12 +32,12 @@
                 {
                     title: "New Resources. Clearer Pathways.",
                     text: "Browse curated collections for instruction, leadership, literacy, assessment, inquiry strategies, and more.",
-                    media: `<svg class="w-full h-full text-[#144745] opacity-20" fill="currentColor" viewBox="0 0 24 24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>`
+                    media: `<img src="https://thebobak.github.io/ie-website-tour/img/toolbox.png" alt="Redesigned homepage screenshot" class="w-full h-full object-cover rounded-md shadow-sm">`
                 },
                 {
                     title: "Jump In and Explore",
                     text: "Discover courses, classroom tools, implementation supports, videos, examples, and new featured resources across the Hub.",
-                    media: `<svg class="w-full h-full text-[#144745] opacity-20" fill="currentColor" viewBox="0 0 24 24"><path d="M17 1.01L7 1c-1.1 0-2 .9-2 2v18c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V3c0-1.1-.9-1.99-2-1.99zM17 19H7V5h10v14z"/></svg>`
+                    media: `<img src="https://thebobak.github.io/ie-website-tour/img/videos.png" alt="Redesigned homepage screenshot" class="w-full h-full object-cover rounded-md shadow-sm">`
                 }
             ];
 
