@@ -25,19 +25,18 @@
             // 2. Slide Data
             const slides = [
                 {
-                    title: "Welcome to Our New Look!",
-                    text: "We've completely redesigned our website to provide you with a faster, cleaner, and more intuitive experience. Let's take a quick look around.",
-                    // Using inline SVG for media so it works anywhere without external image dependencies
-                    media: `<svg class="w-full h-full text-[#144745] opacity-20" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L2 12h3v8h6v-6h2v6h6v-8h3L12 2zm0 2.83l5.5 5.5V18h-2v-6H8.5v6h-2v-7.67L12 4.83z"/></svg>`
+                    title: "The Inquiry Hub Has a New Look!!",
+                    text: "Explore updated toolboxes, streamlined resources, and improved organization designed to help you find what you need faster.",
+                    media: `<img src="https://cdn.exceedlms.com/uploads/resource_images/targets/8397915/page_regular/home-inquired.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL3Jlc291cmNlX2ltYWdlcy90YXJnZXRzLzgzOTc5MTUvcGFnZV9yZWd1bGFyL2hvbWUtaW5xdWlyZWQucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MjQ0NDI2fX19XX0_&Signature=IZRXrJxPYqarNEPxw0RWfou68vX9WA8Qyk-UL51AKqhxpY75D277VFWYEWGowYnrbDz1X9A3-Kn6F2MxMUl6BN8Yahw-eUu2b3dswruLNfI4xjJBk3tCAf2HNyOheMbl7-IliidktFCkNUMDGH~gCFLrcuJXrdmuGNA7FJ1Z51TydVckKnRqpCiWyJBRX~qG90xr~8m0mgFUMgKnLuPDmWUHasq-2vuv8dHMtEy9xsNtnokm5JEA11Oh74sUXku-ybwxC1Gor82Ua6rkMfryF3d3U0IAWz~qP73KOw4La3DUKqpIeLFVSUYzEjT9a27j0Wn-aCw-dSV3OAOVGjGyqg__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA">`
                 },
                 {
-                    title: "Simplified Navigation",
-                    text: "Finding what you need is now easier than ever. We've streamlined our menus so you can access your favorite tools in fewer clicks.",
+                    title: "New Resources. Clearer Pathways.",
+                    text: "Browse curated collections for instruction, leadership, literacy, assessment, inquiry strategies, and more.",
                     media: `<svg class="w-full h-full text-[#144745] opacity-20" fill="currentColor" viewBox="0 0 24 24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>`
                 },
                 {
-                    title: "Mobile Optimized",
-                    text: "Whether you're on a desktop, tablet, or phone, our new design adapts perfectly to give you the best viewing experience on any device.",
+                    title: "Jump In and Explore",
+                    text: "Discover courses, classroom tools, implementation supports, videos, examples, and new featured resources across the Hub.",
                     media: `<svg class="w-full h-full text-[#144745] opacity-20" fill="currentColor" viewBox="0 0 24 24"><path d="M17 1.01L7 1c-1.1 0-2 .9-2 2v18c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V3c0-1.1-.9-1.99-2-1.99zM17 19H7V5h10v14z"/></svg>`
                 }
             ];
