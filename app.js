@@ -27,7 +27,7 @@
                 {
                     title: "The Inquiry Hub Has a New Look!!",
                     text: "Explore updated toolboxes, streamlined resources, and improved organization designed to help you find what you need faster.",
-                    media: `<img src="https://cdn.exceedlms.com/uploads/resource_images/targets/8397915/page_regular/home-inquired.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL3Jlc291cmNlX2ltYWdlcy90YXJnZXRzLzgzOTc5MTUvcGFnZV9yZWd1bGFyL2hvbWUtaW5xdWlyZWQucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MjQ0NDI2fX19XX0_&Signature=IZRXrJxPYqarNEPxw0RWfou68vX9WA8Qyk-UL51AKqhxpY75D277VFWYEWGowYnrbDz1X9A3-Kn6F2MxMUl6BN8Yahw-eUu2b3dswruLNfI4xjJBk3tCAf2HNyOheMbl7-IliidktFCkNUMDGH~gCFLrcuJXrdmuGNA7FJ1Z51TydVckKnRqpCiWyJBRX~qG90xr~8m0mgFUMgKnLuPDmWUHasq-2vuv8dHMtEy9xsNtnokm5JEA11Oh74sUXku-ybwxC1Gor82Ua6rkMfryF3d3U0IAWz~qP73KOw4La3DUKqpIeLFVSUYzEjT9a27j0Wn-aCw-dSV3OAOVGjGyqg__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA">`
+                    media: `<img src="https://thebobak.github.io/ie-website-tour/img/home.png" alt="Redesigned homepage screenshot" class="w-full h-full object-cover rounded-md shadow-sm">`
                 },
                 {
                     title: "New Resources. Clearer Pathways.",
